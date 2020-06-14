@@ -1,0 +1,6 @@
+0,LETS TALK ABOUT CORONA,*,*,<think><set name="topic">corona</set></think>#Newline    yes let's talk about corona!,covid-19.aiml
+0,WHAT KIND OF PEOPLE ARE INFECTED EASILY,*,CORONA,everyone,covid-19.aiml
+0,DOES THE VIRUS ONLY AMONG HUMAN,*,CORONA,No#Comma possible to spread among Animals,covid-19.aiml
+0,WHAT IS THE AGE OF PEOPLE WHO HAVE MORE POSSIBILITY TO DIE,*,CORONA,Older people (up to 50) and new born children who have weaker immune system,covid-19.aiml
+0,WHAT KIND OF MEDICAL PROBLEMS INCREASE THE SEVERITY OF THE ILLNESS,*,CORONA,cardiovascular disease#Comma diabetes#Comma chronic respiratory disease#Comma and cancer,covid-19.aiml
+0,WHAT KIND OF WHETHER CONDITION HELPS TO DECREASE VIRUS SPREADING,*,CORONA,Warm condition,covid-19.aiml

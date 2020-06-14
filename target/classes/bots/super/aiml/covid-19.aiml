@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: covid-19.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: May 06, 2020 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2020 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>LETS TALK ABOUT CORONA</pattern>
+<template><think><set name="topic">corona</set></think>
+    yes let's talk about corona!</template>
+</category>
+<topic name="CORONA">
+<category><pattern>WHAT KIND OF PEOPLE ARE INFECTED EASILY</pattern>
+<template>everyone</template>
+</category></topic>
+
+<topic name="CORONA">
+<category><pattern>DOES THE VIRUS ONLY AMONG HUMAN</pattern>
+<template>No, possible to spread among Animals</template>
+</category></topic>
+
+<topic name="CORONA">
+<category><pattern>WHAT IS THE AGE OF PEOPLE WHO HAVE MORE POSSIBILITY TO DIE</pattern>
+<template>Older people (up to 50) and new born children who have weaker immune system</template>
+</category></topic>
+
+<topic name="CORONA">
+<category><pattern>WHAT KIND OF MEDICAL PROBLEMS INCREASE THE SEVERITY OF THE ILLNESS</pattern>
+<template>cardiovascular disease, diabetes, chronic respiratory disease, and cancer</template>
+</category></topic>
+
+<topic name="CORONA">
+<category><pattern>WHAT KIND OF WHETHER CONDITION HELPS TO DECREASE VIRUS SPREADING</pattern>
+<template>Warm condition</template>
+</category></topic>
+
+</aiml>
